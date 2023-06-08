@@ -13,7 +13,7 @@ def wikisearch():
         nl.append(i.get_text())
     print(nl[1])
     print(nl[2])
-    print(n[3])
+    print(nl[3])
     
 wikisearch()
     
